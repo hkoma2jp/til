@@ -32,7 +32,6 @@ $ hexo server --draft --open
 
 ### テーマ「Vexo」のインストールと設定
 ```
-$ hexo init <Directory>
 $ cd <Directory>
 $ git clone https://github.com/yanm1ng/hexo-theme-vexo.git themes/vexo
 $ cp -R themes/vexo/_source/* source/
