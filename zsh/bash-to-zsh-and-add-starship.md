@@ -44,7 +44,7 @@ starship/starship: ☄🌌️ The cross-shell prompt for astronauts.
 
 Installation
 ```
-$ brew cask install starship
+$ brew install starship
 $ vim ~/.zshrc
 
 # ~/.zshrc
